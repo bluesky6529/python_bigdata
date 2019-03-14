@@ -3,8 +3,8 @@ from selenium import webdriver
 
 #appea alery
 url = 'https://www.facebook.com'
-email = '0922307023'
-password = 'mimi28947731'
+email = '***'
+password = '***'
 driver = webdriver.Chrome()
 
 #cancel alert

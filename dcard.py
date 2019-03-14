@@ -3,8 +3,8 @@ from selenium import webdriver
 
 #appea alery
 url = 'https://www.dcard.tw/login'
-email = 's1022911@mail.ncyu.edu.tw'
-password = 'Asdf0831'
+email = '***'
+password = '***'
 driver = webdriver.Chrome()
 
 #cancel alert
